@@ -1,0 +1,11 @@
+generic-release
+GeoIP
+GeoIP-GeoLite-data
+libevent
+libmemcached-libs
+libmnl
+libnetfilter_conntrack
+libnfnetlink
+libxkbcommon
+tcp_wrappers-libs
+xkeyboard-config
